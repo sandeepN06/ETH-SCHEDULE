@@ -1,0 +1,73 @@
+.App {
+  text-align: center;
+}
+
+h1{
+  font-size: 1.5em;
+  color: rgb(212, 210, 42);
+  margin-bottom: 0;
+}
+
+#calender{
+  margin: 0 auto;
+  width: 600px;
+  /* height: 600px; */
+  background-color: rgb(42, 107, 212);
+  border-radius: 10px;
+  padding: 10px;
+
+}
+
+#motto {
+  font-size: 1.5em;
+  font-weight: bold;
+  color: rgb(255, 0, 157);
+  padding: 1em;
+}
+
+#admin {
+  background: white;
+  padding: 20px;
+  margin: 40px auto ;
+  width: 1000px;
+  /* width: 50; */
+}
+
+#setting-button{
+  background-color: red;
+  color: aqua;
+}
+
+button{
+  background-color: #010c02;
+  color: white;
+  padding: 14px ;
+  margin: 8px ;
+  border: none;
+  cursor: pointer;
+  width: 100%;
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}

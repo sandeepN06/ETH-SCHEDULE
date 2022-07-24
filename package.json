@@ -1,0 +1,30 @@
+{
+  "name": "web3cd",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@nomiclabs/hardhat-ethers": "^2.0.5",
+    "@nomiclabs/hardhat-waffle": "^2.0.3",
+    "chai": "^4.3.6",
+    "ethereum-waffle": "^3.4.4",
+    "ethers": "^5.6.2",
+    "hardhat": "^2.9.2"
+  },
+  "dependencies": {
+    "@devexpress/dx-react-core": "^3.0.2",
+    "@devexpress/dx-react-scheduler": "^3.0.2",
+    "@devexpress/dx-react-scheduler-material-ui": "^3.0.2",
+    "@emotion/react": "^11.8.2",
+    "@emotion/styled": "^11.8.1",
+    "@mui/material": "^5.5.3",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  }
+}
