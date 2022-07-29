@@ -1,6 +1,6 @@
 # HACKATHON-5.0--INEURON
 
-# Appointment based funding DAPP
+# Appointment based funding DAPP [ETH-SCHEDULE]
 
 Interaction between user and creator by establishing the funding process between the two 
 entities and providing additional benefit for the users to interact with the creators by 
